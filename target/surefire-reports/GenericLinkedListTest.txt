@@ -1,0 +1,52 @@
+-------------------------------------------------------------------------------
+Test set: GenericLinkedListTest
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 5, Errors: 7, Skipped: 0, Time elapsed: 0.074 s <<< FAILURE! - in GenericLinkedListTest
+constructorTest  Time elapsed: 0.01 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError:  length wrong ==> expected: <1> but was: <3>
+	at GenericLinkedListTest.constructorTest(GenericLinkedListTest.java:20)
+
+clearTest  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException
+	at GenericLinkedListTest.clearTest(GenericLinkedListTest.java:66)
+
+GLLIteratorTest  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at GenericLinkedListTest.GLLIteratorTest(GenericLinkedListTest.java:102)
+
+getTest  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at GenericLinkedListTest.getTest(GenericLinkedListTest.java:25)
+
+GLListIteratorTest  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException
+	at GenericLinkedListTest.GLListIteratorTest(GenericLinkedListTest.java:90)
+
+addFirstTest  Time elapsed: 0.005 s  <<< ERROR!
+java.lang.NullPointerException
+	at GenericLinkedListTest.addFirstTest(GenericLinkedListTest.java:41)
+
+sizeTest  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError:  size wrong ==> expected: <1> but was: <0>
+	at GenericLinkedListTest.sizeTest(GenericLinkedListTest.java:29)
+
+removeTail  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException
+	at GenericLinkedListTest.removeTail(GenericLinkedListTest.java:85)
+
+removeTest  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at GenericLinkedListTest.removeTest(GenericLinkedListTest.java:57)
+
+removeHeadTest  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: removeHead wrong ==> expected: <1> but was: <0>
+	at GenericLinkedListTest.removeHeadTest(GenericLinkedListTest.java:78)
+
+addLastTest  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError:  add wrong ==> expected: <1> but was: <2>
+	at GenericLinkedListTest.addLastTest(GenericLinkedListTest.java:34)
+
+setTest  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: set wrong ==> expected: <1> but was: <4>
+	at GenericLinkedListTest.setTest(GenericLinkedListTest.java:72)
+

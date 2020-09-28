@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f12594b4-2437-48de-a1be-2c543df74127" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1i7T6RJCL0kqEqWdEkUey5bfSnG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="JUnit.GenericLinkedListTest">
+    <configuration name="GenericLinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectOneGLL" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GenericLinkedListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericLinkedListTest.GLLIteratorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectOneGLL" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GenericLinkedListTest" />
+      <option name="METHOD_NAME" value="GLLIteratorTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericLinkedListTest.GLListIteratorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectOneGLL" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GenericLinkedListTest" />
+      <option name="METHOD_NAME" value="GLListIteratorTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericLinkedListTest.ReverseGLLIteratorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectOneGLL" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GenericLinkedListTest" />
+      <option name="METHOD_NAME" value="ReverseGLLIteratorTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericLinkedListTest.addFirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectOneGLL" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GenericLinkedListTest" />
+      <option name="METHOD_NAME" value="addFirstTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GenericLinkedListTest" />
+        <item itemvalue="JUnit.GenericLinkedListTest.ReverseGLLIteratorTest" />
+        <item itemvalue="JUnit.GenericLinkedListTest.addFirstTest" />
+        <item itemvalue="JUnit.GenericLinkedListTest.GLLIteratorTest" />
+        <item itemvalue="JUnit.GenericLinkedListTest.GLListIteratorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f12594b4-2437-48de-a1be-2c543df74127" name="Default Changelist" comment="" />
+      <created>1601257454787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601257454787</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="210" y="59" key="#GenericLinkedListTest" timestamp="1601259937589">
+      <screen x="0" y="25" width="1280" height="727" />
+    </state>
+    <state x="210" y="59" key="#GenericLinkedListTest/0.25.1280.727@0.25.1280.727" timestamp="1601259937589" />
+    <state x="240" y="51" key="#Project_Structure" timestamp="1601258848458">
+      <screen x="0" y="25" width="1280" height="727" />
+    </state>
+    <state x="240" y="51" key="#Project_Structure/0.25.1280.727@0.25.1280.727" timestamp="1601258848458" />
+    <state width="1238" height="166" key="GridCell.Tab.0.bottom" timestamp="1601264602696">
+      <screen x="0" y="25" width="1280" height="727" />
+    </state>
+    <state width="1238" height="166" key="GridCell.Tab.0.bottom/0.25.1280.727@0.25.1280.727" timestamp="1601264602696" />
+    <state width="1238" height="166" key="GridCell.Tab.0.center" timestamp="1601264602695">
+      <screen x="0" y="25" width="1280" height="727" />
+    </state>
+    <state width="1238" height="166" key="GridCell.Tab.0.center/0.25.1280.727@0.25.1280.727" timestamp="1601264602695" />
+    <state width="1238" height="166" key="GridCell.Tab.0.left" timestamp="1601264602694">
+      <screen x="0" y="25" width="1280" height="727" />
+    </state>
+    <state width="1238" height="166" key="GridCell.Tab.0.left/0.25.1280.727@0.25.1280.727" timestamp="1601264602694" />
+    <state width="1238" height="166" key="GridCell.Tab.0.right" timestamp="1601264602696">
+      <screen x="0" y="25" width="1280" height="727" />
+    </state>
+    <state width="1238" height="166" key="GridCell.Tab.0.right/0.25.1280.727@0.25.1280.727" timestamp="1601264602696" />
+    <state width="1238" height="223" key="GridCell.Tab.1.bottom" timestamp="1601264595602">
+      <screen x="0" y="25" width="1280" height="727" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.1.bottom/0.25.1280.727@0.25.1280.727" timestamp="1601264595602" />
+    <state width="1238" height="223" key="GridCell.Tab.1.center" timestamp="1601264595601">
+      <screen x="0" y="25" width="1280" height="727" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.1.center/0.25.1280.727@0.25.1280.727" timestamp="1601264595601" />
+    <state width="1238" height="223" key="GridCell.Tab.1.left" timestamp="1601264595600">
+      <screen x="0" y="25" width="1280" height="727" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.1.left/0.25.1280.727@0.25.1280.727" timestamp="1601264595600" />
+    <state width="1238" height="223" key="GridCell.Tab.1.right" timestamp="1601264595601">
+      <screen x="0" y="25" width="1280" height="727" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.1.right/0.25.1280.727@0.25.1280.727" timestamp="1601264595601" />
+    <state x="192" y="128" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1601259921722">
+      <screen x="0" y="25" width="1280" height="727" />
+    </state>
+    <state x="192" y="128" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.25.1280.727@0.25.1280.727" timestamp="1601259921722" />
+  </component>
+</project>
